@@ -1,6 +1,6 @@
 ## Portafolio de Proyectos de Data Science
 
-Este repositorio contiene una colección de proyectos de Data Science desarrollados como parte de mi aprendizaje y práctica profesional. Incluyen análisis exploratorio de datos, visualización y construcción de modelos predictivos.
+Este repositorio contiene una colección de proyectos de Data Science y BI desarrollados como parte de mi aprendizaje y práctica profesional. Incluyen análisis exploratorio de datos, visualización y construcción de modelos predictivos.
 
 ### Contenido 
 * Procesamiento y limpieza de datos
@@ -14,4 +14,4 @@ Este repositorio contiene una colección de proyectos de Data Science desarrolla
 
 * Librerías principales: Pandas, Numpy, Matplotlib 
 
-* Herremientas adicionales: Excel, Tableau 
+* Herremientas adicionales: Excel, Tableau, Power BI, Pentaho
